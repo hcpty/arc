@@ -1,2 +1,2 @@
 # Readme
-dum-e.lib.arc is a Site App reactor.
+dum-e.bin.reactor is a Site App reactor.
