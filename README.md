@@ -1,2 +1,2 @@
 # Readme
-Arc is a hypertext container.
+Arc is a Hypertext container.
