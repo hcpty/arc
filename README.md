@@ -1,2 +1,2 @@
 # Readme
-dum-e.bin.reactor is a Site App reactor.
+Arc is a Site Agent.
