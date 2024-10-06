@@ -1,2 +1,2 @@
 # Readme
-Arc is a Site Agent.
+Arc is a site agent.
