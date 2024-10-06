@@ -9,6 +9,8 @@
     - jar
     - [POSIX Shell & Utilities](https://pubs.opengroup.org/onlinepubs/9799919799)
 
+- java
+
 - /
     - Java
     - Java Standard Library
