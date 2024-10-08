@@ -1,7 +1,7 @@
 # Credits
 
 - /
-    - [Oracle JDK](https://www.oracle.com/java/technologies/downloads) and [Maven](https://github.com/apache/maven)
+    - [Oracle JDK](https://www.oracle.com/java/technologies/downloads) and [Apache Maven](https://github.com/apache/maven)
 
 - /
     - [google-java-format](https://github.com/google/google-java-format)
