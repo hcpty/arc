@@ -1,2 +1,2 @@
 # Readme
-Arc is a Hypertext App Host.
+Arc is a Hypertext Host.
