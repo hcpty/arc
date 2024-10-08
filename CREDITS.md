@@ -1,7 +1,7 @@
 # Credits
 
 - /
-    - [JDK](https://github.com/openjdk/jdk) and [Maven](https://github.com/apache/maven)
+    - [Oracle JDK](https://www.oracle.com/java/technologies/downloads) and [Maven](https://github.com/apache/maven)
 
 - /
     - [google-java-format](https://github.com/google/google-java-format)
@@ -10,6 +10,5 @@
     - [POSIX Shell & Utilities](https://pubs.opengroup.org/onlinepubs/9799919799)
 
 - /
-    - Java Programming Language
-    - Java Standard Library
+    - [Oracle Java & Libraries](https://docs.oracle.com/en/java/javase)
     - [vertx-core](https://github.com/eclipse-vertx/vert.x)
