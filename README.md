@@ -1,2 +1,2 @@
 # Readme
-Arc is a Web Transferer.
+A web transferer.
