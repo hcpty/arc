@@ -1,2 +1,2 @@
 # Readme
-Arc is a Web Host.
+Arc is a Web Transferer.
