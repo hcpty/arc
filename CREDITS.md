@@ -6,8 +6,8 @@
 - /
     - [google-java-format](https://github.com/google/google-java-format)
     - javac
-    - java
     - [POSIX Shell & Utilities](https://pubs.opengroup.org/onlinepubs/9799919799)
+    - java
 
 - /
     - [Oracle Java & Libraries](https://docs.oracle.com/en/java/javase)
