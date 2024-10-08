@@ -1,2 +1,2 @@
 # Readme
-Arc is a site agent.
+Arc is a Hypertext App Host.
