@@ -1,2 +1,2 @@
 # Readme
-A web transferer.
+A representational state transferer.
