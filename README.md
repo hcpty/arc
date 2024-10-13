@@ -1,2 +1,2 @@
 # Readme
-A representational state transferer.
+A representational state keeper.
