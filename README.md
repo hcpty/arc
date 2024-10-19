@@ -1,5 +1,5 @@
 # Readme
-An engine.
+An app engine.
 
 ### Credits
 
