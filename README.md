@@ -8,8 +8,9 @@ An app engine.
 - /
   - [google-java-format](https://github.com/google/google-java-format)
   - javac
-  - [POSIX Shell & Utilities](https://pubs.opengroup.org/onlinepubs/9799919799)
+  - jar
   - java
+  - [POSIX Shell & Utilities](https://pubs.opengroup.org/onlinepubs/9799919799)
 
 - /
   - [Oracle Java & Libraries](https://docs.oracle.com/en/java/javase)
