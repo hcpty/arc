@@ -14,3 +14,4 @@ An app engine.
 - /
   - [Oracle Java & Libraries](https://docs.oracle.com/en/java/javase)
   - [vertx-core](https://github.com/eclipse-vertx/vert.x)
+  - [handlebars](https://github.com/jknack/handlebars.java)
