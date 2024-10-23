@@ -15,5 +15,3 @@ An app engine.
 - /
   - [Oracle Java & Libraries](https://docs.oracle.com/en/java/javase)
   - [Vert.x Core](https://github.com/eclipse-vertx/vert.x)
-  - [Handlebars.java](https://github.com/jknack/handlebars.java)
-  - [Moshi](https://github.com/square/moshi)
